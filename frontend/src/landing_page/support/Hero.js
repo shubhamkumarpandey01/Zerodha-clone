@@ -5,15 +5,15 @@ function Hero() {
         <section className="container-fluid" id="supportHero">
             <div className="p-3 mt-5 mb-5" id="supportWrapper">
                 <h4>Support Portal</h4>
-                <a href="" style={{textDecoration:"none"}}>Track Tickets</a>
+                <a href="/" style={{textDecoration:"none"}}>Track Tickets</a>
             </div>
             <div className="row p-3">
                 <div className="col-6 p-3"><h1>Search for an answer or browse help topics to create a ticket</h1>
                 <input placeholder="How do I activate F&O" /> <br/>
-                <a href="">Track account Opening</a>
-                <a href="">Track segment activation</a>
-                <a href="">Intraday maginsKite</a>
-                <a href="">user manual</a>
+                <a href="/">Track account Opening</a>
+                <a href="/">Track segment activation</a>
+                <a href="/">Intraday maginsKite</a>
+                <a href="/">user manual</a>
                 </div>
                 <div className="col-6 p-3">
                     <h1 className="fs-3">Featured</h1>
