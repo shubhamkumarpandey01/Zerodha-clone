@@ -8,7 +8,7 @@ function Universe() {
             <p>Extend your trading and investment experience even further with our partner platforms</p>
             
             <div className="col-4 p-3 mt-5">
-                <img src="media/images/zerodhaFundhouse.png" style={{width:"60%"}} />
+                <img src="media/images/zerodhaFundhouse.png" alt="" style={{width:"60%"}} />
                 <p className="text-small text-muted">
 
 Our asset management venture
