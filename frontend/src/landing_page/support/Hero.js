@@ -18,8 +18,8 @@ function Hero() {
                 <div className="col-6 p-3">
                     <h1 className="fs-3">Featured</h1>
                     <ol>
-                        <li><a href="">Current Takeover and Delisting-January 2024</a></li>
-                        <li><a href="">Latest Interday Leverages-MIS & CO</a></li>
+                        <li><a href="/">Current Takeover and Delisting-January 2024</a></li>
+                        <li><a href="/">Latest Interday Leverages-MIS & CO</a></li>
                     </ol>
                 </div>
                 </div>

@@ -14,7 +14,7 @@ function Team() {
                 </div>
                 <div className="col-6 p-3">
                     <p>Shubham Kumar Pandey is a third year student at <b>GALGOTIAS COLLEGE OF ENGINEERING AND TECHNOLOGY</b></p>
-                    <p>Connect on <a href="https://www.linkedin.com/in/shubham-kumar-pandey-92aa25336">Linkedin</a> / <a href="">Trading</a> / <a href="https:twitter.com/pandey_shu10450">Twitter</a> / <a href="shubham_kumar_pandey_01">Instagram</a> / <a href="mailto:official.shubhamkumarpandey@gmail.com">Gmail</a></p>
+                    <p>Connect on <a href="https://www.linkedin.com/in/shubham-kumar-pandey-92aa25336">Linkedin</a> / <a href="/">Trading</a> / <a href="https:twitter.com/pandey_shu10450">Twitter</a> / <a href="shubham_kumar_pandey_01">Instagram</a> / <a href="mailto:official.shubhamkumarpandey@gmail.com">Gmail</a></p>
             </div>
         </div> 
         </div>
